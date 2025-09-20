@@ -1,12 +1,26 @@
-# React + Vite
+Paash Travels & Tours
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Paash Travels & Tours** is a modern travel website built with **React**, **Tailwind CSS**, and **Framer Motion**.  
+It allows users to explore destinations, view tour packages, book trips, and make payments using **Stripe**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
 
-## Expanding the ESLint configuration
+- Hero Section:** Eye-catching landing section for first impressions.  
+- About Section:** Information about the company and services.  
+- Popular Destinations:** Showcase of top travel destinations with images and descriptions.  
+- Tour Packages:** Various packages with categories, prices, and "Book Now" functionality.  
+- Travel Options:** Services such as cab booking, bike rentals, bus, train, and car rentals.  
+- Testimonials:** Display feedback from happy travelers.  
+- Gallery:** Highlight images from destinations and trips.  
+- Payment Integration:** Stripe payment system to securely book packages.  
+- Success Page:** Confirmation after successful payment.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+Tech Stack
+
+- Frontend:React, Tailwind CSS, Framer Motion, React Router  
+- Backend (for payments):Node.js, Express, Stripe  
+- Version Control:Git & GitHub  
